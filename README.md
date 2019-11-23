@@ -1,5 +1,8 @@
 # Responsive-bootstrap-sidebar
+[Documentation](https://8subjects/responsive-bootstrap-sidebar/)
 Responsive Bootstrap Sidebar with Collapsed control
+
+### Featued on [FreeCMSThemes]( https://freecmsthemes.com/responsive-bootstrap-sidebar/)
 
 ## Features
 * 3 different themes
@@ -7,10 +10,13 @@ Responsive Bootstrap Sidebar with Collapsed control
 * light weight CSS, JS.
 
 ![Big Icon Menu](https://swot.co.in/advt/big-icon-menu.png)
+
 ![Icon Menu](https://swot.co.in/advt/icon-menu.png)
+
 ![Text Menu](https://swot.co.in/advt/text-menu.png)
 
 
-[Documentation](https://8subjects/responsive-bootstrap-sidebar/)
 
-### Featued on [FreeCMSThemes]( https://freecmsthemes.com/responsive-bootstrap-sidebar/)
+
+
+
