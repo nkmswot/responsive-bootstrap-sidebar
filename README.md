@@ -1,6 +1,7 @@
 # Responsive-bootstrap-sidebar
-[Documentation](https://8subjects/responsive-bootstrap-sidebar/)
 Responsive Bootstrap Sidebar with Collapsed control
+
+Read [Documentation](https://8subjects/responsive-bootstrap-sidebar/)
 
 ### Featued on [FreeCMSThemes]( https://freecmsthemes.com/responsive-bootstrap-sidebar/)
 
