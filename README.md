@@ -1,5 +1,7 @@
 # Responsive-bootstrap-sidebar
 Responsive Bootstrap Sidebar with Collapsed control
+[![Github All Releases](https://img.shields.io/github/downloads/nkmswot/responsive-bootstrap-sidebar/total.svg)]()
+
 
 Read [Documentation](https://8subjects.com/responsive-bootstrap-sidebar/)
 
